@@ -1,0 +1,227 @@
+.cards {
+    position: absolute;
+    margin-top: 50px;
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+
+
+}
+.cardimg1 {
+    height: 250px;
+    width: 298px;
+    margin-left: 31px;
+    margin-top: 30px;
+}
+.cardimgtop1 {
+    position: absolute;
+    margin-left: 30px;
+    width: 300px;
+}
+ .cards:hover{
+    
+    
+
+}
+
+.cardbg {
+    height: 800px;
+    width: 1500px;
+    background-color: white;
+    position: absolute;
+    margin-top: 600px;
+}
+.cardimg2 {
+    height: 250px;
+    width: 298px;
+    margin-left: 360px;
+    margin-top: 30px;
+}
+.cardimgtop2{
+    position: absolute;
+    margin-left: 360px;
+    width: 300px;
+}
+.cardimg3{
+    height: 250px;
+    width: 298px;
+    margin-left: 690px;
+    margin-top: 30px;
+}
+.cardimgtop3{
+    position: absolute;
+    margin-left: 690px;
+    width: 300px;
+}
+ .cardimg4 {
+    height: 250px;
+    width: 298px;
+    margin-left: 1030px;
+    margin-top: 30px;
+ }
+ .cardimgtop4{
+    position: absolute;
+    margin-left: 1030px;
+    width: 300px;
+ }
+ .cardimg5{
+    height: 250px;
+    width: 298px;
+    margin-left: 31px;
+    margin-top: 330px;
+ }
+ .cardimgtop5{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 300px;
+    width: 300px;
+ }
+ .cardimg6{
+    height: 250px;
+    width: 298px;
+    margin-left: 360px;
+    margin-top: 330px;
+ }
+ .cardimgtop6{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 300px;
+    width: 300px;
+ }
+ .cardimg7{
+    height: 250px;
+    width: 298px;
+    margin-left: 690px;
+    margin-top: 330px;
+ }
+ .cardimgtop7{
+    position: absolute;
+    margin-left: 690px;
+    margin-top: 300px;
+    width: 300px;
+ }
+ .cardimg8{
+    height: 250px;
+    width: 298px;
+    margin-left: 1030px;
+    margin-top: 330px;
+ }
+ .cardimgtop8{
+    position: absolute;
+    margin-left: 1030px;
+    margin-top: 300px;
+    width: 300px;
+ }
+
+ .aftercard
+ {
+    height: 800px;
+    background-color: whitesmoke;
+    margin-top: 700px;
+ }
+ .heading{
+    position: absolute;
+    font-size: 30px;
+    font-weight:bold;
+    color: black;
+   margin-left: 500px;
+    margin-top: 30px;
+ }
+ .lines{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 450px;
+    text-align: center;
+    color:gray;
+ }
+ .aftercardimg{
+    margin-top: 150px;
+    margin-left: 300px;
+    width: 1000px;
+ }
+ .aftercard2{
+    height: 800px;
+    background-color: white;
+ }
+ .tech{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: 600px;
+ }
+ .tech1{
+    position: absolute;
+    margin-left: 350px;
+    text-align: center;
+    margin-top: 80px;
+ }
+ .techimg1{
+   position: absolute;
+    margin-top: 180px;
+    margin-left: 30px;
+ }
+ .techimg2{
+   
+    margin-top: 220px;
+    margin-left: 900px;
+ }
+ .Official{
+   margin-left: 880px;
+   margin-top: 10px;
+   font-size: 25px;
+   font-weight: 600;
+ }
+ .Official1{
+   margin-left: 835px;
+   margin-top: -17px;
+   font-size: 18px;
+}
+.techimg3{
+   position: absolute;
+   margin-left: 1250px;
+   margin-top: -195px;
+}
+.email{
+   margin-left: 1270px;
+   margin-top: -85px;
+   font-size: 25px;
+   font-weight: 600;
+
+}
+.email1{
+   margin-left: 1210px;
+   margin-top: -18px;
+   font-size: 18px;
+}
+.techimg4{
+   margin-left: 1100px;
+}
+.website{
+   margin-left: 1105px;
+   font-size: 25px;
+   margin-top: -2px;
+   font-weight: 600;
+}
+.website1{
+   margin-left: 1070px;
+   font-size: 18px;
+   margin-top: -15px;
+}
+.contactbutton{
+   margin-left: 1040px;
+   margin-top: 20px;
+   height: 50px;
+   width: 250px;
+   background-color: #50b68e;
+   border-radius: 25px;
+   border: none;
+   color: white;
+   font-size: 17px;
+
+}
+.contactimg{
+   position: absolute;
+
+   margin-left: 800px;
+}

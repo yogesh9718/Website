@@ -1,0 +1,108 @@
+.customersection{
+    position: absolute;
+    background-color: #f5f5f5;
+    margin-top: 2900px;
+    height: 1200px;
+    width: 1510px;
+}
+.happy{
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 600px;
+}
+.about{
+    margin-left: 700px;
+    margin-top: -20px;
+}
+.img1{
+    margin-left: 650px;
+}
+.review1{
+    height: 400px;
+    width: 430px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.pera1{
+    position: absolute;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 17px;
+}
+.review1 img{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+.Maorpl{
+    margin-left: 185px;
+    margin-top: -1px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.review2{
+        position: absolute;
+        height: 400px;
+        width: 430px;
+        background-color: white;
+        margin-left: 570px;
+        margin-top: -400px;
+    
+}
+.review2 img{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+
+.review3{
+    position: absolute;
+    height: 400px;
+    width: 430px;
+    background-color: white;
+    margin-left: 1070px;
+    margin-top: -400px;
+}
+.review3 img{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+
+.review4{
+    height: 400px;
+    width: 430px;
+    background-color: white;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.review4 img{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+
+.review5{
+    position: absolute;
+        height: 400px;
+        width: 430px;
+        background-color: white;
+        margin-left: 570px;
+        margin-top: -400px;
+}
+.review5 img{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+
+.review6{
+    position: absolute;
+    height: 400px;
+    width: 430px;
+    background-color: white;
+    margin-left: 1070px;
+    margin-top: -400px;
+}
+.review6 img{
+    margin-left: 190px;
+    margin-top: 200px;
+}
